@@ -42,12 +42,13 @@ interests:
   - Distributed Systems
   - Developer Productivity
   - Orchestration Systems
+  - Cloud Native Technologies
 
 education:
   - area: B.S. Computer Science
     institution: UC Davis
-    date_start: 2012-01-01
-    date_end: 2016-12-31
+    date_start: 2012
+    date_end: 2016
     summary: ~
  
 work:
@@ -55,7 +56,7 @@ work:
     company_name: Alation
     company_url: 'https://alation.com'
     company_logo: 'https://images.ctfassets.net/7p3vnbbznfiw/TMRjJsOSHitRstKLRdkcX/d0d1535647d1517b879576074b6e5505/Alation-Logo-Primary.svg'
-    date_start: 2022-01-01
+    date_start: 2022
     date_end: ''
     summary: |2-
       Alation is a metadata intelligence platform that allows businesses to harness the power of their metadata to realize value for every data and AI intiative.
@@ -65,12 +66,12 @@ work:
       - Alation Agent; a suite of cloud services and an on-premise appliance customers install within their network boundray to bring in metadata into Alation's cloud without poking holes in their firewalls
       - Open Connector Framework; a framework that enables Alation and its partners to quickly build database connectors
       - Alation Connector Manager; a stack that orchestrates and manages the database connectors
-  - position: Journera
-    company_name: X
+  - position: Senior Software Engineer
+    company_name: Journera
     company_url: 'https://journera.com'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: 2022-12-31
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNknmWGGqRQkoOWWXJSSUd5Ck5e5F7eptzg&s'
+    date_start: 2020
+    date_end: 2022
     summary: |
       Journera is a travel technology company. We partner with travel providers, marketers, and technologists to bring together a real-time view of a traveler’s journey. With the secure and private exchange of shared customer data, we elevate travel experiences, strengthen loyalty, increase direct engagement, and facilitate operational efficiencies.
 
@@ -80,6 +81,59 @@ work:
         * Golang, Python, Ember.js
         * MySQL, Memcached, Kinesis, Kafka, SQS
         * AWS, Terraform, Packer, Docker, ECS, Ansible, BuildKite
+  - position: Software Engineer
+    company_name: Clypd
+    company_url: 'https://clypd.com'
+    company_logo: 'https://media.licdn.com/dms/image/v2/C4E0BAQFXfys1FePcGA/company-logo_200_200/company-logo_200_200/0/1631334149371?e=1741219200&v=beta&t=ENQFeP1nzOj1ULPoUxf1gJK_prGXjERBJWW4X1pEU3k'
+    date_start: 2019
+    date_end: 2020
+    summary: |
+      Member of the TV Platform & Marketplace team working on advanced buy-side and sell-side advertising technology enabling buyers and sellers to access and trade premium inventory in a trusted and streamlined environment.
+
+      Tech:
+        * Golang, React
+        * SQS, PostgreSQL(RDS), Redshift
+        * Docker, AWS
+        * Ansible, Terraform, Jenkins, Packer
+  - position: Software Engineer
+    company_name: LogRocket
+    company_url: 'https://logrocket.com'
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvtMBqmnghSww3iB97EpbQU-Z1J-T2uMEGg&s'
+    date_start: 2018
+    date_end: 2019
+    summary: |
+     7th engineering hire. Had a lot of fun wearing many hats working on data ingestion, browser SDK, session playback, search, alerting, cloud infrastructure, and some front-end. Even had a chance to work on recruiting and interact with customers through support rotations.
+
+      Tech:
+      * NodeJS, Python (Django), React, GraphQL
+      * Redis, PubSubm PostgreSQL, Elasticsearch, Bigtable
+      * Docker, Kubernetes, Helm, Google Cloud Platform
+  - position: Software Engineer II
+    company_name: IBM
+    company_url: 'https://ibm.com'
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQCFxPiTR8Z4eXSZi3Zc6gHDrJhvb44mAZjQ&s'
+    date_start: 2016
+    date_end: 2018
+    summary: |
+      Briefly worked on the Developer Experience team automating SDK generation from API specifications. Then, moved to Watson Assistant to work on model-lifecycle-management microservices that power Assistant’s API.
+
+      Tech:
+      * NodeJS, Python, Java, gRPC
+      * Swagger, OpenAPI
+      * MongoDB, Cassandra
+      * Docker, Kubernetes, Helm
+  - position: Software Engineering Intern
+    company_name: Mathworks
+    company_url: 'https://mathworks.com'
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv2R2xE23DOq6C9EZkgvLeyGWrdZUEm8tw&s'
+    date_start: 2016
+    date_end: 2016
+    summary: |
+      Interned on the Embedded Coder team; a sub-product that enables MATLAB users to generate target-specific embedded code from MATLAB source. I analyzed numerous generation reports to find bottlenecks and help speed up generation time. Additionally, built an internal test-framework to improve numerical verification of Simulink models.
+
+      Tech:
+      * C++, Python, XML
+
 
 
 # Skills
