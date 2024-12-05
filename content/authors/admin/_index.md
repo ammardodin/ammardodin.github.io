@@ -77,10 +77,9 @@ work:
       I have been primarily doing server-side development in Golang on AWS, and as of most recent, I’ve been focused on expanding our integrations with Airline partners and marketing data platforms.
       
       Tech:
-
-    Golang, Python, Ember.js
-    MySQL, Memcached, Kinesis, Kafka, SQS
-    AWS, Terraform, Packer, Docker, ECS, Ansible, BuildKite
+        * Golang, Python, Ember.js
+        * MySQL, Memcached, Kinesis, Kafka, SQS
+        * AWS, Terraform, Packer, Docker, ECS, Ansible, BuildKite
 
 
 # Skills
